@@ -1,0 +1,14 @@
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.AssemblyInfoInputs.cache
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.AssemblyInfo.cs
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.csproj.CoreCompileInputs.cache
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon.exe
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon.deps.json
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon.runtimeconfig.json
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon.dll
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\bin\Debug\net8.0\SpartaDungeon.pdb
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.dll
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\refint\SpartaDungeon.dll
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.pdb
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\SpartaDungeon.genruntimeconfig.cache
+C:\SeungHyeon\SpartaDungeon\SpartaDungeon\obj\Debug\net8.0\ref\SpartaDungeon.dll
